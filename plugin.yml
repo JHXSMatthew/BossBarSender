@@ -1,0 +1,8 @@
+name: BossBarSender
+main: com.github.JHXSMatthew.BossBarSender
+version: 0.0.1-SNAPSHOT
+depend: [BossBarAPI]
+commands:
+  BossBarSender:
+    description: Main command!
+    aliases: [BossBarSender]
