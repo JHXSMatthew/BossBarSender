@@ -1,6 +1,9 @@
-# 项目名称
+# BossBarSender
 
-此README还未填写，现为模板。
+A abstract wrapper for sending boss bar with bossbar API.
+
+#Dependencies:
+(https://www.spigotmc.org/resources/api-bossbarapi-1-7-1-8-1-9-1-10.7504/)
 
 
 # 其他项目
