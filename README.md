@@ -2,12 +2,12 @@
 
 A abstract wrapper for sending boss bar with bossbar API.
 
-#Dependencies:
+## Dependencies:
 (https://www.spigotmc.org/resources/api-bossbarapi-1-7-1-8-1-9-1-10.7504/)
 
 
-# ÆäËûÏîÄ¿
-ÆäËûÏîÄ¿¿ÉÒÔÔÚ www.mcndsj.com/projects ÕÒµ½¡£ ÈçÄúÓĞËùĞèµÄÎ´¿ªÔ´£¬ÇëÍ¨¹ıÈÎÒâÏà¹ØÏîÄ¿µÄGitHub issueÁªÏµÎÒ£¬»á½«¶ÔÓ¦ÏîÄ¿¿ªÔ´¡£
+# å…¶ä»–é¡¹ç›®
+å…¶ä»–é¡¹ç›®å¯ä»¥åœ¨ www.mcndsj.com/projects æ‰¾åˆ°ã€‚ å¦‚æ‚¨æœ‰æ‰€éœ€çš„æœªå¼€æºï¼Œè¯·é€šè¿‡ä»»æ„ç›¸å…³é¡¹ç›®çš„GitHub issueè”ç³»æˆ‘ï¼Œä¼šå°†å¯¹åº”é¡¹ç›®å¼€æºã€‚
 
 # NOTICE
 
@@ -16,8 +16,8 @@ The code in this project may use untraceable third-party open source codes and m
 Please contact me through email 68638023@qq.com or submit an issue in GitHub repo and I will remove any illegal code from this project.
 I owe you my apologies.
 
-# ×¢Òâ
+# æ³¨æ„
 
-ÏîÄ¿ÄÚ¿ÉÄÜº¬ÓĞÎŞ·¨ÕÒÑ°À´Ô´µÄµÚÈı·½¿ªÔ´´úÂë£¬ÈçÊ¹ÓÃÓĞÎ¥·´¿ªÔ´Ğ­Òé£¬ÇëÄúÖ±½ÓÍ¨¹ıÓÊ¼ş 68638023@qq.com »ò GitHub µÄ issue ÁªÏµÎÒ¡£ ÎÒ½«µÚÒ»Ê±¼ä½«Î¥¹æ´úÂë
-´ÓÏîÄ¿ÖĞÉ¾³ı£¬Éî±íÇ¸Òâ£¡
+é¡¹ç›®å†…å¯èƒ½å«æœ‰æ— æ³•æ‰¾å¯»æ¥æºçš„ç¬¬ä¸‰æ–¹å¼€æºä»£ç ï¼Œå¦‚ä½¿ç”¨æœ‰è¿åå¼€æºåè®®ï¼Œè¯·æ‚¨ç›´æ¥é€šè¿‡é‚®ä»¶ 68638023@qq.com æˆ– GitHub çš„ issue è”ç³»æˆ‘ã€‚ æˆ‘å°†ç¬¬ä¸€æ—¶é—´å°†è¿è§„ä»£ç 
+ä»é¡¹ç›®ä¸­åˆ é™¤ï¼Œæ·±è¡¨æ­‰æ„ï¼
 
